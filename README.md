@@ -16,3 +16,6 @@ This program is designed to help you improve your ping and FPS for online PC vid
  * Adjust graphics settings
  * Reduce resolution
  * Disable unnecessary features
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
