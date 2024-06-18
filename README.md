@@ -10,4 +10,5 @@ This program is designed to help you improve your ping and FPS for online PC vid
     * Reduce jitter
     * Adjust TCP/IP settings
 
+This is a free release, if you want the premium one hit me up on twitter
 
